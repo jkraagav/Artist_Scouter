@@ -8,7 +8,7 @@ Countries, tiers, genre tags, API keys, and filter thresholds.
 ### make your own apis and add them here.
 SPOTIFY_CLIENT_ID = ""
 SPOTIFY_CLIENT_SECRET = ""
-LASTFM_API_KEY = ""  # Get from https://www.last.fm/api/account/create (free, instant)
+LASTFM_API_KEY = "19cd4cadd4a51c1a9e404c185fcfab47"  # Get from https://www.last.fm/api/account/create (free, instant)
 
 MB_APP_NAME = "WF-AutoScouter"
 MB_APP_VERSION = "3.0"
